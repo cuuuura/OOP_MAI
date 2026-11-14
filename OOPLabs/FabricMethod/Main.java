@@ -1,5 +1,7 @@
 package FabricMethod;
 
+// Фабричный метод пример
+
 interface INotifier {
     void send(String message);    
 }

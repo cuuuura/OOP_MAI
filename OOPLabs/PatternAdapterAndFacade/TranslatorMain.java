@@ -1,4 +1,7 @@
 package PatternAdapterAndFacade;
+
+// патерн адаптер задача
+
 interface EnglishSpeaker {
     void speakEnglish(String text);
 }

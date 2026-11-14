@@ -1,4 +1,7 @@
 package PatternAdapterAndFacade;
+
+// Паттерн адаптер пример
+
 interface HeadphoneJack {
     void plugIn();
 }

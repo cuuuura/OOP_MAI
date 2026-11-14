@@ -1,4 +1,7 @@
 package PatternAdapterAndFacade;
+
+// Паттерн фасад пример
+
 class AudioSystem {
     public void on() {
         System.out.println("Аудиосистема запущена");
